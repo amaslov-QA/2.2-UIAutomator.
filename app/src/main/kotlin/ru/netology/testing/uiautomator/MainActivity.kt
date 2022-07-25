@@ -28,3 +28,4 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+//ресурсы компа должны быть большие)
